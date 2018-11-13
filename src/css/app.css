@@ -1,0 +1,32 @@
+body {
+	color:#4a4a4a;
+}
+
+.green-glow{
+	color: #138496;
+}
+
+#app {
+	padding:  100px 0 100px 0;
+}
+
+.item{
+	background: #181818;
+	color: white;
+	border-radius: 8px;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+.icon-wrap {
+	text-align: center;
+	padding-top: 5px;
+}
+
+.item h5, p {
+	margin: 15px 0;
+}
+
+.item .icon{
+	font-size: 20px;
+}
